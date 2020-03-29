@@ -4,13 +4,13 @@ This submission contain a library called Draw.hs and four example programs,
 example1.hs, example2.hs, example3.hs and example4.hs.
 
 
-### Prerequites 
-The  Haskell Glasgow Compiler `ghci` which can installed by 
+### Prerequisites 
+The  `Haskell Glasgow Compiler`  which can installed by 
 ```
 sudo apt-get install haskell-platform
 ```
 
-and GD Graphics library which can be installed by
+and `GD Graphics` library which can be installed by
 ```
 sudo apt install libhgc-gd-dev
 ```
@@ -23,5 +23,3 @@ ghci
 > :l example1.hs
 > main
 ```
-
-**REAME under construction**
