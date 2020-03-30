@@ -1,6 +1,6 @@
 ## Monadic drawing library
 
-This submission contain a library called Draw.hs and four example programs, 
+This contains a library called Draw.hs and four example programs, 
 example1.hs, example2.hs, example3.hs and example4.hs.
 
 
