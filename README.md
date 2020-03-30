@@ -5,7 +5,7 @@ example1.hs, example2.hs, example3.hs and example4.hs.
 
 
 ### Prerequisites 
-The  `Haskell Glasgow Compiler`  which can installed by 
+The  `Haskell Glasgow Compiler`  which can be installed by 
 ```
 sudo apt-get install haskell-platform
 ```
